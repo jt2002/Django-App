@@ -7,5 +7,5 @@ Ref: Corey Schafer's YouTube "Django Full-Featured Web App"
 ### Sample Live App
 
 ```
-https://wideanddeep.com
+https://www.wideanddeep.com
 ```
